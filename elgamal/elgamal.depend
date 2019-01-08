@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1546391046 source:g:\code\codeblocks\elgamal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"BigInt.h"
+	"BigPrime.h"
+	"MD5.h"
+	"file.h"
+
+1546259713 g:\code\codeblocks\elgamal\bigint.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<algorithm>
+
+1546390929 g:\code\codeblocks\elgamal\bigprime.h
+	<time.h>
+	<iostream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<algorithm>
+
+1544066441 g:\code\codeblocks\elgamal\md5.h
+	<string>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1544963787 g:\code\codeblocks\elgamal\file.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
